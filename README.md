@@ -29,6 +29,7 @@ Enter your text:
 Hello world from C++
 
 **Output:**
+
 H  
 w  
 f  
